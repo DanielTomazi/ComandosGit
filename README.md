@@ -1,7 +1,7 @@
 # Comandos Git
-
+***
 <img src="https://user-images.githubusercontent.com/77423877/212448635-0d5a1db3-1480-4910-baa8-971115cd06a4.png" width=550>
-
+***
 ## Configurações
 `git config --global user.name "[nome]"`  
 Configura o nome relacionado aos commits  
